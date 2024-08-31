@@ -1,0 +1,113 @@
+
+#insertkobo
+	{
+		
+		font-size:25px;
+		width:50%;
+		font-family:italic;
+		text-align:left;
+		margin-left:200px;
+		font-weight:bold;
+		COLOR:black;
+		
+	}
+	
+#cid
+	{
+		width :400px
+	
+	}
+
+#cname
+	{
+		width :400px;
+	
+	}
+
+#stype
+	{
+		width :400px;
+	}
+
+#division
+	{
+		width :400px;
+	}
+
+
+#location
+	{
+		width :400px;
+	
+	}
+
+#cost
+	{
+		width :400px;
+	
+	}
+	
+#participants
+	{
+		width :400px;
+	
+	}
+
+#button
+	{
+		font-size:15px;
+		width:150px;
+		padding:5px 15px;
+		cursor: pointer;
+					
+	}
+	#sub
+	{
+		font-size:15px;
+		width:150px;
+		padding:5px 15px;
+		cursor: pointer;
+					
+	}
+
+h3
+	{
+		margin-left:100;
+		font-size:40px;
+		font-family:Arial;
+	}
+
+
+#bor
+	{
+	
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size:cover;
+		border-style:double;
+		border-width:8px;
+		border-left-color:black;
+		border-right-color:black;
+		border-top-color:black;
+		border-bottom-color:black;
+	
+	}
+	
+#bor
+	{
+	
+	
+		background-image: url(koboImages/koboT.png);
+		
+	
+	}	
+
+	p{
+		background-color:#ffccff;
+		font-size:25px;
+		width:50%;
+		font-family:italic;
+		font-weight:bold;
+		
+		
+	}

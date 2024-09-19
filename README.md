@@ -1,6 +1,15 @@
 # Red-Cross-KOBO-Progress
 Academic Advanced Diploma Final project's my part
 
+#KOBO Activity diagram
+![KOBO Activity diagram](https://github.com/user-attachments/assets/e7b1732b-371b-4175-b958-cc4c8c2c88ca)
+
+#KOBO Usecase diagram
+![KOBO use case diagram](https://github.com/user-attachments/assets/f249cd03-026c-4653-8e3d-a030f4c5e091)
+
+#Passed testcases
+[IT20109776 KOBO Test, Methodology into.docx](https://github.com/user-attachments/files/17057996/IT20109776.KOBO.Test.Methodology.into.docx)
+
 #Screenshots of the function
 ![1 KOBO Insert page](https://github.com/user-attachments/assets/73adc605-3564-47c9-b0b1-dc778c79aa64)
 ![2 KOBO insert page (Get employee name form employe etable)](https://github.com/user-attachments/assets/4c3c074f-5c7b-41ef-9412-bd43d8e3f72a)

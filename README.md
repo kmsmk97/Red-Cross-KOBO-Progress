@@ -20,3 +20,6 @@ Academic Advanced Diploma Final project's my part
 ![7 Annual KOBO report generating page](https://github.com/user-attachments/assets/21752abe-9002-4f38-8c3b-8889e7d7f975)
 ![8 Annual KOBO report PDF (DOWNLOADED)](https://github.com/user-attachments/assets/bde49325-5aa8-4a28-bcca-5469bb556822)
 ![9 KOBO All details EXCEL CSV (Add to last)](https://github.com/user-attachments/assets/c6491e78-1c12-4efd-a960-c53abecbc788)
+
+#Full project report
+[KDY_2021_WE01.pdf](https://github.com/user-attachments/files/17058134/KDY_2021_WE01.pdf)
